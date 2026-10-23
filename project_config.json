@@ -1,0 +1,20 @@
+{
+  "project_root": ".",
+  "paths": {
+    "data": "data",
+    "meg": "data/meg",
+    "mri": "data/mri",
+    "stc": "data/stc",
+    "logs": "logs",
+    "stimuli": "stimuli",
+    "stimulus_task": "stimuli/task",
+    "visual_angle": "stimuli/visual_angle",
+    "behavioral": "data/behavioral",
+    "behavioral_raw": "data/behavioral/raw/exp",
+    "word_vectors": "data/behavioral/vectors.w2v",
+    "figures": "figures",
+    "glm_figures": "figures/paper/GLM",
+    "anova_results": "data/results/ANOVA",
+    "glm_results": "data/results/GLM"
+  }
+}
