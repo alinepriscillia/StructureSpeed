@@ -1,0 +1,25 @@
+# macOS and Python
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Research data and generated outputs
+data/
+meg/
+mri/
+stc/
+logs/
+results/
+figures/
+*.fif
+*.stc
